@@ -1,0 +1,554 @@
+[
+    {
+    "nombre_sitio": "Aeroparque Parque Juan Pablo II",
+    "tipo_atractivo": "Parque temático y recreativo",
+    "latitud": 6.22229004,
+    "longitud": -75.59167481
+    },
+    {
+    "nombre_sitio": "Aeropuerto Enrique Olaya Herrera",
+    "tipo_atractivo": "Aeropuerto de pasajeros",
+    "latitud": 6.21887207,
+    "longitud": -75.58947754
+    },
+    {
+    "nombre_sitio": "Barrio Prado",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.25952148,
+    "longitud": -75.56182861
+    },
+    {
+    "nombre_sitio": "Basílica Menor Nuestra Señora de la Candelaria",
+    "tipo_atractivo": "Basílica",
+    "latitud": 6.25012207,
+    "longitud": -75.56750488
+    },
+    {
+    "nombre_sitio": "Bulevar Libertadores de América",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.25128174,
+    "longitud": -75.58831787
+    },
+    {
+    "nombre_sitio": "Calle de la Buena Mesa",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.21228027,
+    "longitud": -75.57067871
+    },
+    {
+    "nombre_sitio": "Casa de la Lectura Infantil",
+    "tipo_atractivo": "Sala múltiple",
+    "latitud": 6.24871826,
+    "longitud": -75.56420898
+    },
+    {
+    "nombre_sitio": "Casa de Música El Jordán",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.27508545,
+    "longitud": -75.59527588
+    },
+    {
+    "nombre_sitio": "Casa Museo Maestro Pedro Nel Gómez",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.27850342,
+    "longitud": -75.5625
+    },
+    {
+    "nombre_sitio": "Catedral Basílica Metropolitana de la Inmaculada Concepción de María",
+    "tipo_atractivo": "Catedral",
+    "latitud": 6.25408936,
+    "longitud": -75.56378174
+    },
+    {
+    "nombre_sitio": "Cementerio San Lorenzo",
+    "tipo_atractivo": "Cementerio",
+    "latitud": 6.24169922,
+    "longitud": -75.56610107
+    },
+    {
+    "nombre_sitio": "Centro Administrativo´José María Córdoba´",
+    "tipo_atractivo": "Centro administrativo",
+    "latitud": 6.24450684,
+    "longitud": -75.57348633
+    },
+    {
+    "nombre_sitio": "Centro Comercial Palacio Nacional",
+    "tipo_atractivo": "Edificación comercial",
+    "latitud": 6.24890137,
+    "longitud": -75.5703125
+    },
+    {
+    "nombre_sitio": "Centro de Desarrollo Cultural de Moravia",
+    "tipo_atractivo": "Centro de formación cultural",
+    "latitud": 6.27648926,
+    "longitud": -75.56469727
+    },
+    {
+    "nombre_sitio": "Centro de Espectáculos La Macarena",
+    "tipo_atractivo": "Plaza de toros",
+    "latitud": 6.24969482,
+    "longitud": -75.58050537
+    },
+    {
+    "nombre_sitio": "Cerro Pan de Azúcar",
+    "tipo_atractivo": "Cerro",
+    "latitud": 6.24707031,
+    "longitud": -75.53527832
+    },
+    {
+    "nombre_sitio": "Complejo Arquitectónico Claustro San Ignacio",
+    "tipo_atractivo": "Claustro",
+    "latitud": 6.24627686,
+    "longitud": -75.56420898
+    },
+    {
+    "nombre_sitio": "Conjunto de Esculturas de Botero",
+    "tipo_atractivo": "Escultura",
+    "latitud": 6.25231934,
+    "longitud": -75.56817627
+    },
+    {
+    "nombre_sitio": "Ecoparque Cerro Picacho",
+    "tipo_atractivo": "Cerro",
+    "latitud": 6.30407715,
+    "longitud": -75.58850098
+    },
+    {
+    "nombre_sitio": "Edificio Antigua Estación Medellín",
+    "tipo_atractivo": "Estación de ferrocarril",
+    "latitud": 6.24468994,
+    "longitud": -75.57189941
+    },
+    {
+    "nombre_sitio": "Edificio Carré",
+    "tipo_atractivo": "Centro administrativo",
+    "latitud": 6.24591064,
+    "longitud": -75.57122803
+    },
+    {
+    "nombre_sitio": "Edificio Coltejer",
+    "tipo_atractivo": "Edificación comercial",
+    "latitud": 6.25012207,
+    "longitud": -75.565979
+    },
+    {
+    "nombre_sitio": "Edificio Inteligente Empresas Públicas de Medellín",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.2454834,
+    "longitud": -75.57769775
+    },
+    {
+    "nombre_sitio": "Edificio Vásquez",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.24572754,
+    "longitud": -75.57141113
+    },
+    {
+    "nombre_sitio": "Escaleras Eléctricas Comuna 13",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.2479248,
+    "longitud": -75.62188721
+    },
+    {
+    "nombre_sitio": "Escultura Cacique Nutibara",
+    "tipo_atractivo": "Escultura",
+    "latitud": 6.23651123,
+    "longitud": -75.57989502
+    },
+    {
+    "nombre_sitio": "Escultura La Gorda de Botero",
+    "tipo_atractivo": "Escultura",
+    "latitud": 6.24987793,
+    "longitud": -75.56781006
+    },
+    {
+    "nombre_sitio": "Estatua a Simón Bolívar",
+    "tipo_atractivo": "Estatua",
+    "latitud": 6.25311279,
+    "longitud": -75.5645752
+    },
+    {
+    "nombre_sitio": "Fuente Cacique de Nutibara",
+    "tipo_atractivo": "Fuente",
+    "latitud": 6.25176563,
+    "longitud": -75.56762458
+    },
+    {
+    "nombre_sitio": "Iglesia de San Antonio",
+    "tipo_atractivo": "Iglesia",
+    "latitud": 6.24450684,
+    "longitud": -75.56890869
+    },
+    {
+    "nombre_sitio": "Iglesia Jesús de Nazareno",
+    "tipo_atractivo": "Iglesia",
+    "latitud": 6.2598877,
+    "longitud": -75.56671143
+    },
+    {
+    "nombre_sitio": "Iglesia La Veracruz",
+    "tipo_atractivo": "Iglesia",
+    "latitud": 6.25128174,
+    "longitud": -75.56951904
+    },
+    {
+    "nombre_sitio": "Iglesia San José de El Poblado",
+    "tipo_atractivo": "Iglesia",
+    "latitud": 6.21008301,
+    "longitud": -75.57049561
+    },
+    {
+    "nombre_sitio": "Jardín Botánico Joaquín Antonio Uribe",
+    "tipo_atractivo": "Jardín botánico",
+    "latitud": 6.27069092,
+    "longitud": -75.5637207
+    },
+    {
+    "nombre_sitio": "Jardín Morro de Moravia",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.27728272,
+    "longitud": -75.56781006
+    },
+    {
+    "nombre_sitio": "Milla de Oro",
+    "tipo_atractivo": "Avenida y calle",
+    "latitud": 6.20007324,
+    "longitud": -75.57220459
+    },
+    {
+    "nombre_sitio": "Monumento a Carlos Gardel",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.21807861,
+    "longitud": -75.58679199
+    },
+    {
+    "nombre_sitio": "Monumento a la Raza",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.24432373,
+    "longitud": -75.57348633
+    },
+    {
+    "nombre_sitio": "Monumento a La Vida",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.2545166,
+    "longitud": -75.57897949
+    },
+    {
+    "nombre_sitio": "Monumento a la Vida",
+    "tipo_atractivo": "Escultura",
+    "latitud": 6.25427246,
+    "longitud": -75.57897949
+    },
+    {
+    "nombre_sitio": "Monumento al Tango",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.21807861,
+    "longitud": -75.58679199
+    },
+    {
+    "nombre_sitio": "Monumento El Pájaro",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.2454834,
+    "longitud": -75.6171875
+    },
+    {
+    "nombre_sitio": "Monumento Paloma de la Paz",
+    "tipo_atractivo": "Monumento",
+    "latitud": 6.2454834,
+    "longitud": -75.6171875
+    },
+    {
+    "nombre_sitio": "Museo al Aire Libre Acueducto del Siglo XIX",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.25091553,
+    "longitud": -75.56921387
+    },
+    {
+    "nombre_sitio": "Museo Casa de la Memoria",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.24591064,
+    "longitud": -75.55657959
+    },
+    {
+    "nombre_sitio": "Museo Casa Gardeliana",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.26947021,
+    "longitud": -75.5546875
+    },
+    {
+    "nombre_sitio": "Museo Cementerio San Pedro",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.26568603,
+    "longitud": -75.56140137
+    },
+    {
+    "nombre_sitio": "Museo de Antioquia",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.25231934,
+    "longitud": -75.56890869
+    },
+    {
+    "nombre_sitio": "Museo de Arte Moderno de Medellín",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.22351074,
+    "longitud": -75.57409668
+    },
+    {
+    "nombre_sitio": "Museo del Agua",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.24511719,
+    "longitud": -75.57611084
+    },
+    {
+    "nombre_sitio": "Museo El Castillo",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.19012451,
+    "longitud": -75.56939697
+    },
+    {
+    "nombre_sitio": "Museo Etnográfico Madre Laura",
+    "tipo_atractivo": "Museo",
+    "latitud": 6.24572754,
+    "longitud": -75.61700439
+    },
+    {
+    "nombre_sitio": "Palacio de Bellas Artes",
+    "tipo_atractivo": "Centro de formación cultural",
+    "latitud": 6.24688721,
+    "longitud": -75.56311035
+    },
+    {
+    "nombre_sitio": "Palacio de la Cultura Rafael Uribe Uribe",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.25152588,
+    "longitud": -75.56829834
+    },
+    {
+    "nombre_sitio": "Parque Ambiental Bosques de La Frontera",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.18511963,
+    "longitud": -75.57629395
+    },
+    {
+    "nombre_sitio": "Parque Biblioteca España",
+    "tipo_atractivo": "Biblioteca",
+    "latitud": 6.29467773,
+    "longitud": -75.54412842
+    },
+    {
+    "nombre_sitio": "Parque de Berrío",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.24987793,
+    "longitud": -75.56781006
+    },
+    {
+    "nombre_sitio": "Parque de Bolívar",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.25311279,
+    "longitud": -75.5645752
+    },
+    {
+    "nombre_sitio": "Parque de El Poblado",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.21032715,
+    "longitud": -75.57110596
+    },
+    {
+    "nombre_sitio": "Parque de los Deseos",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.26849365,
+    "longitud": -75.565979
+    },
+    {
+    "nombre_sitio": "Parque de los Pies Descalzos",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.24468994,
+    "longitud": -75.5771
+    },
+    {
+    "nombre_sitio": "Parque Explora",
+    "tipo_atractivo": "Parque temático y recreativo",
+    "latitud": 6.27008057,
+    "longitud": -75.5656
+    },
+    {
+    "nombre_sitio": "Parque Lineal La Presidenta",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.20788574,
+    "longitud": -75.5703
+    },
+    {
+    "nombre_sitio": "Parque Lleras",
+    "tipo_atractivo": "Parque urbano",
+    "latitud": 6.20910644,
+    "longitud": -75.5678
+    },
+    {
+    "nombre_sitio": "Parque Natural Metropolitano Cerro El Volador",
+    "tipo_atractivo": "Cerro",
+    "latitud": 6.26928711,
+    "longitud": -75.5828
+    },
+    {
+    "nombre_sitio": "Parque Natural Metropolitano Cerro Nutibara",
+    "tipo_atractivo": "Cerro",
+    "latitud": 6.23651123,
+    "longitud": -75.5799
+    },
+    {
+    "nombre_sitio": "Parque Norte J. Emilio Valderrama",
+    "tipo_atractivo": "Parque temático y recreativo",
+    "latitud": 6.27270508,
+    "longitud": -75.5682
+    },
+    {
+    "nombre_sitio": "Parque Regional Ecoturístico Arví",
+    "tipo_atractivo": "Áreas con declaratorias departamentales",
+    "latitud": 6.28948975,
+    "longitud": -75.5108
+    },
+    {
+    "nombre_sitio": "Parque de la Conservación",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.22332764,
+    "longitud": -75.5796
+    },
+    {
+    "nombre_sitio": "Paseo Bolívar",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.24627686,
+    "longitud": -75.5701
+    },
+    {
+    "nombre_sitio": "Paseo Peatonal Ayacucho",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.24249268,
+    "longitud": -75.5561
+    },
+    {
+    "nombre_sitio": "Paseo Peatonal Carabobo",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.25128174,
+    "longitud": -75.5693
+    },
+    {
+    "nombre_sitio": "Paseo Peatonal de Junín",
+    "tipo_atractivo": "Sector urbano o rural de interés",
+    "latitud": 6.25152588,
+    "longitud": -75.5655
+    },
+    {
+    "nombre_sitio": "Paseo Provenza",
+    "tipo_atractivo": "Avenida y calle",
+    "latitud": 6.20690918,
+    "longitud": -75.5653
+    },
+    {
+    "nombre_sitio": "Pequeño Teatro",
+    "tipo_atractivo": "Teatro",
+    "latitud": 6.24749756,
+    "longitud": -75.5616
+    },
+    {
+    "nombre_sitio": "Placita de Flórez",
+    "tipo_atractivo": "Plaza de mercado",
+    "latitud": 6.24627686,
+    "longitud": -75.5597
+    },
+    {
+    "nombre_sitio": "Planetario Municipal de Medellín Jesús Emilio Ramírez González",
+    "tipo_atractivo": "Planetario",
+    "latitud": 6.269104,
+    "longitud": -75.566
+    },
+    {
+    "nombre_sitio": "Plaza Botero",
+    "tipo_atractivo": "Plaza",
+    "latitud": 6.25231934,
+    "longitud": -75.5682
+    },
+    {
+    "nombre_sitio": "Plaza Cisneros",
+    "tipo_atractivo": "Plaza",
+    "latitud": 6.24609375,
+    "longitud": -75.5723
+    },
+    {
+    "nombre_sitio": "Plaza Gardel",
+    "tipo_atractivo": "Plaza",
+    "latitud": 6.21807861,
+    "longitud": -75.5868
+    },
+    {
+    "nombre_sitio": "Plaza Mayor Medellín Convenciones y Exposiciones",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.24310303,
+    "longitud": -75.5764
+    },
+    {
+    "nombre_sitio": "Plaza Minorista José María Villa",
+    "tipo_atractivo": "Plaza de mercado",
+    "latitud": 6.25732422,
+    "longitud": -75.5727
+    },
+    {
+    "nombre_sitio": "Pueblito Paisa",
+    "tipo_atractivo": "Plaza",
+    "latitud": 6.23608398,
+    "longitud": -75.5802
+    },
+    {
+    "nombre_sitio": "Puente de Guayaquil",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.23388672,
+    "longitud": -75.5757
+    },
+    {
+    "nombre_sitio": "Santuario Santa Laura Montoya",
+    "tipo_atractivo": "Convento",
+    "latitud": 6.24572754,
+    "longitud": -75.617
+    },
+    {
+    "nombre_sitio": "Teatro Lido",
+    "tipo_atractivo": "Teatro",
+    "latitud": 6.25231934,
+    "longitud": -75.5646
+    },
+    {
+    "nombre_sitio": "Teatro Metropolitano de Medellín José Gutiérrez Gómez",
+    "tipo_atractivo": "Teatro",
+    "latitud": 6.24310303,
+    "longitud": -75.5776
+    },
+    {
+    "nombre_sitio": "Teatro Pablo Tobón Uribe",
+    "tipo_atractivo": "Teatro",
+    "latitud": 6.24749756,
+    "longitud": -75.5592
+    },
+    {
+    "nombre_sitio": "Teatro Prado el Águila Descalza",
+    "tipo_atractivo": "Teatro",
+    "latitud": 6.25469971,
+    "longitud": -75.5606
+    },
+    {
+    "nombre_sitio": "Unidad Deportiva Atanasio Girardot",
+    "tipo_atractivo": "Otro",
+    "latitud": 6.25671387,
+    "longitud": -75.59
+    },
+    {
+    "nombre_sitio": "Unidad Deportiva de Belén Andrés Escobar Saldarriaga",
+    "tipo_atractivo": "Estadio",
+    "latitud": 6.23608398,
+    "longitud": -75.5875
+    },
+    {
+    "nombre_sitio": "Vía Primavera",
+    "tipo_atractivo": "Avenida y calle",
+    "latitud": 6.20812988,
+    "longitud": -75.5671
+    }
+]
